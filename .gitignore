@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ConsoleAppOpenXML/obj/Debug
+/ConsoleAppOpenXML/bin/Debug
+/packages/DocumentFormat.OpenXml.2.11.3
+/.vs/ConsoleAppOpenXML/v16
